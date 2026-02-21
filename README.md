@@ -12,7 +12,7 @@ Migrate a Ghost CMS site to Astro with MDX content collections.
 
 ## How this was made
 
-This code was generated in a single session with Claude. It works — it successfully migrated [nathangathright.com](https://nathangathright.com) from Ghost to Astro — but it hasn't been battle-tested beyond that. Use at your own discretion.
+This project was built to migrate [nathangathright.com](https://nathangathright.com) from Ghost to Astro. Agentically-authored commits are attributed via `Co-Authored-By` in the git log.
 
 ## Quick start
 
